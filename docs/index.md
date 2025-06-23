@@ -134,7 +134,7 @@ Duplicated footnote reference[^second].
 
 ## Images 
 ![Fnatic](https://github.com/user-attachments/assets/c17bb176-3a3f-4a79-a5e6-093df6c66ee2)
-![PaperRex](https://github.com/user-attachments/assets/abd2189a-da2f-4cf2-bee8-762dd0957f6f "Paper Rex logo") 
+![PaperRex](https://github.com/user-attachments/assets/8ed83b10-dde1-4687-bcd9-ff94701830f6 "Paper Rex logo") 
 
 ## Yotube Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3gmogp5-xXA?si=DglP06Ze6PeHAN_A" 
