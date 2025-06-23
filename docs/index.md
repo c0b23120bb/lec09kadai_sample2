@@ -133,7 +133,7 @@ Duplicated footnote reference[^second].
 [^second]: Footnote text. 
 
 ## Images 
-![Fnatic](https://github.com/user-attachments/assets/c17bb176-3a3f-4a79-a5e6-093df6c66ee2)
+![Fnatic](https://github.com/user-attachments/assets/10ad3d0c-f5e7-4868-850e-1ffe90928dd7)
 ![PaperRex](https://github.com/user-attachments/assets/8ed83b10-dde1-4687-bcd9-ff94701830f6 "Paper Rex logo") 
 
 ## Yotube Video 
