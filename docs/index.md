@@ -138,9 +138,6 @@ Duplicated footnote reference[^second].
 ![PaperRex](https://github.com/user-attachments/assets/8ed83b10-dde1-4687-bcd9-ff94701830f6 "Paper Rex logo") 
 
 ## Yotube Video 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3gmogp5-xXA?si=DglP06Ze6PeHAN_A" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqHFG6FAI9U?si=NodU2Xy4p1AUGe-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  
