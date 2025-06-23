@@ -133,10 +133,11 @@ Duplicated footnote reference[^second].
 [^second]: Footnote text. 
 
 ## Images 
-![Minion](https://octodex.github.com/images/minion.png) 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat") 
+![Fnatic](https://github.com/user-attachments/assets/c17bb176-3a3f-4a79-a5e6-093df6c66ee2)
+) 
+![PaperRex](https://github.com/user-attachments/assets/abd2189a-da2f-4cf2-bee8-762dd0957f6f "Paper Rex logo") 
 
-## Youtube Video 
+## Yotube Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3gmogp5-xXA?si=DglP06Ze6PeHAN_A" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
